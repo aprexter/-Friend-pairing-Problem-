@@ -12,7 +12,7 @@ public class LetsParty {
     }
 
     public static void main(String[] args) {
-        System.out.println(k);
+    
         int p=differentWays(5);
         System.out.println(p);
     }
